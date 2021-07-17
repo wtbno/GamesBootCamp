@@ -1,0 +1,7 @@
+C:\Users\Bruno\Downloads\dotnet games\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.csproj.AssemblyReference.cache
+C:\Users\Bruno\Downloads\dotnet games\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Downloads\dotnet games\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.AssemblyInfoInputs.cache
+C:\Users\Bruno\Downloads\dotnet games\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.AssemblyInfo.cs
+C:\Users\Bruno\Downloads\dotnet games\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Downloads\dotnet games\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bruno\Downloads\dotnet games\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cache
